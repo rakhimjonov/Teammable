@@ -1,5 +1,5 @@
 # Teammable
-This is an application for Managing Profile Data
+This is an application for Managing User Profile Data
 
 ### To run the tests, execute
 
